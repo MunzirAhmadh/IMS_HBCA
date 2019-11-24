@@ -1,0 +1,6 @@
+import 2 databases with appropriate name 
+istall xampp version win32-1.8.1
+install microsoft visual studio c++ 2008 redistributable
+
+set the database connection
+load system
