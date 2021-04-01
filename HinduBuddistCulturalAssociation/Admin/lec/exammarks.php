@@ -185,4 +185,4 @@ function add_marks() {
     }
 </script>
 
-<?php require_once('../incl/footer.php'); ?>
+<?php require_once('../incl/footer.php'); ?>  
